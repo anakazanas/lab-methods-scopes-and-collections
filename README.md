@@ -1,4 +1,4 @@
-# Java Methods Practice Lab - Complete Edition
+# Java Methods Practice Lab
 
 #### Learning Objectives
 
