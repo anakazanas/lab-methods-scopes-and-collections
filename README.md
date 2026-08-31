@@ -22,6 +22,17 @@ management, and collections manipulation.
 By completing this lab, you'll gain practical experience with method creation while solving real-world programming
 challenges. Each method you write will reinforce important concepts and prepare you for more advanced Java development.
 
+##### Running the lab
+
+```
+mvn test
+```
+
+specific failed test
+
+```
+mvn -Dtest=LabTest test
+```
 #### Part A: Basic Methods and Parameter Handling
 
 #### Requirements
